@@ -27,12 +27,7 @@ Always excited to explore **emerging technologies** and stay updated with indust
 
 ---
 
-## 🎯 Certifications in Progress  
-- **CCNA**  
-- **CompTIA Security+**  
-- **VMware Certified Technical Associate - Network Virtualization (VCTA-NV)**  
 
----
 
 ## 📚 Current Learning  
 - Advanced **GitOps Practices**  
